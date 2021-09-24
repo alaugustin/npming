@@ -9,6 +9,7 @@
   "author": "Al Augustin",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.27.5",
     "gulp": "^4.0.2"
   }
 }
