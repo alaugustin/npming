@@ -11,5 +11,13 @@
   "devDependencies": {
     "browser-sync": "^2.27.5",
     "gulp": "^4.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaugustin/npming.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alaugustin/npming/issues"
+  },
+  "homepage": "https://github.com/alaugustin/npming#readme"
 }
